@@ -37,7 +37,7 @@
 ```
 ├── Code                  -- Coding
 |   └──lab name         -- Total 24 labs
-│   	├── package
+│   	└── package
 │  		└── code.java
 |
 ├── Report                -- Report PDF (Total 6)
